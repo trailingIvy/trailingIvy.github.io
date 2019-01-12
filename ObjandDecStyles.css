@@ -1,0 +1,65 @@
+
+a:hover {
+	color: green;
+	}
+
+#h1 {
+font-family:Georgia,serif;font-size:48pt;text-align:center;
+background-color:#FFFFFF;color:#103848;
+border-top-style:double;border-top-width:7px;border-left-style:double;border-left-width:7px;border-right-style:double;border-right-width:7px;border-bottom-style:none;border-bottom-width:0px;margin-left:5px;margin-right:5px;
+}
+
+.sa {color:#103848; text-shadow: 2px 0px #ff0000;}
+
+.sc {color:#103848; text-shadow: 1px 0px #990000;}
+
+.sb {font-size:24pt;text-shadow: 0px 0px #000000;}
+
+.thinnerObjSpace { height:5px;}
+.evenThinnerObjSpace { height:2px;}
+.thinnestObjSpace { height:1px;}
+
+.redBanner {background-color :#FCF9F9;}
+.underline {text-decoration : underline;}
+.italic {font-style : italic;color : red;}
+
+.normal {
+color:#103848;text-shadow:none;font-weight:bold;	
+}
+
+#ObjDec {
+background-color:#FCF9F9;border-color:#444400;border-style:double;border-width:7px; margin-left:5px;margin-right:5px;border-top-style : none;border-top-width : 0px;}
+
+#Title {
+
+font-family:Georgia,serif;font-size:24pt;text-align:center;text-shadow: 1px 0px #ff0000;
+background-color:#FFF7F7;color:#005522;border-color:#000000;border-style:solid;border-top-width:2px;border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+#historyNote {
+font-family:Arial,sans-serif;font-size:11pt;text-align:center;background-color:#FCFCF0;color:#500000;
+}
+
+#ObjectTitle {
+font-family:Georgia,serif;font-size:18pt;font-weight:bold;text-align:center;background-color:#FbF7F7;color:#005522;text-shadow: 1px 0px #ff0000;border-color:#000000;border-style:solid;border-top-width:1px;border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+#DofP {
+font-family:Georgia,serif;font-size:16pt;font-weight:bold;text-align:center;text-decoration : underline;background-color:#F6F5F5;color:#005522;text-shadow: 1px 0px #ff0000;border-color:#000000;border-style:solid;border-top-width:1px;border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+#ObjectText {font-family:Arial,"Trebuchet MS",sans-serif;
+font-weight:bold;text-align:center;
+font-size:10pt;letter-spacing:1px;background-color:#F6FCFC;color:#002848;
+}
+
+#holds {
+font-family:Georgia,serif;font-size:12pt;font-weight:normal;word-spacing:1px;background-color:#FCFCF0;color:#000000;
+}
+
+.ol {background-color:#F3F3F3;}
+
+li {padding-left:5px;padding-right:5px;
+font-family:"Trebuchet MS",sans-serif;text-align:justify;font-weight:bold;font-size:10pt;
+letter-spacing:1px;word-spacing:1px;background-color:#F6FCFC;color:#002848;
+}
