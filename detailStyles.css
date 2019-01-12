@@ -1,0 +1,55 @@
+
+a:hover {
+	color: green;
+}
+
+#page {
+font-family:Georgia,serif;letter-spacing:1px;text-align:center;
+background-color:#F4FCFF;color:#103848;
+border-color:#103848;
+border-style:double;border-width : 4px;
+}
+
+.thinSpace { height:10px}
+.thinnerSpace { height:5px}
+.thinnestSpace { height:2px}
+
+.goldie {color:#a0a000;font-weight:bold;}
+.bluey {color: #004488;font-weight:bold;}
+.greeny {color:#008844;font-weight:bold;}
+.reddy {color: #880000;font-weight:bold;}
+.whitie {background-color: #fcfcfc;}
+
+#h1 {
+font-size:16pt;font-weight:bold;text-decoration:underline;color:#585800;
+padding-bottom:2px;
+}
+
+.main {
+font-family:"Century Gothic",sans-serif;
+font-size:11pt;font-weight:normal;
+border-style:solid;border-color:#103848;border-top-width:1px;border-bottom-width : 0px;border-left-width : 0px;border-right-width:0px;padding-bottom:2px;
+}
+
+.mainw {
+font-family:"Century Gothic",sans-serif;
+font-size:11pt;font-weight:normal;background-color:#fcfcfc;
+border-style:solid;border-color:#103848;border-top-width:1px;border-bottom-width : 0px;border-left-width : 0px;border-right-width : 0px;padding-bottom:2px;
+}
+
+.bottom-line {
+font-size:11pt;font-weight:bold;text-align:center;background-color:#fcfcfc;
+border-style:solid;border-color:#103848;border-top-width:1px;border-bottom-width : 0px;border-left-width : 0px;border-right-width : 0px;padding-top:2px;padding-bottom:3px;
+}
+
+.bottom-lineblue {
+font-size:11pt;font-weight:bold;text-align:center;background-color:#F4FCFF;;
+border-style:solid;border-color:#103848;border-top-width:1px;border-bottom-width : 0px;border-left-width : 0px;border-right-width : 0px;padding-top:2px;padding-bottom:3px;
+}
+
+.bottom-overline {
+font-size:11pt;font-weight:bold;text-align:center;background-color:#F4FCFF;;
+border-style:solid;border-color:#103848;border-top-width:1px;border-bottom-width : 1px;border-left-width : 0px;border-right-width : 0px;padding-top:2px;padding-bottom:3px;
+}
+
+.dotted-line  {line-height:1px}
