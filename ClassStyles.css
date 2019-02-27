@@ -1,0 +1,223 @@
+
+/*   ## CLASS EXPLORER  (CSS3) ##  */
+/*  ## NORMAN BURNS 23/02/2014  ##  */
+
+a:hover {
+	color: green;
+	}
+	
+a {
+	color: #103848;text-decoration : none;
+	}
+	
+del {
+-moz-text-decoration-color: orangeRed; /* Code for Firefox */
+text-decoration-color: orangeRed;
+}
+	
+.outTakes {
+font-size:16pt;color:#585800;
+}
+
+.left {
+float:left;margin-left:5%;font-size:13pt;color:#103848;width:230px;
+}
+
+.pic {
+display:inline;
+}
+
+.right {
+float:right;margin-right:5%;font-size:13pt;color:#103848;width:230px;
+}
+
+.up{
+line-height:150px;
+}
+
+.mid{
+line-height:20px;
+}
+
+.down{
+line-height:140px;
+}
+
+.commentW {font-size:16pt;background-color:#ffffff;color:#103848;
+border-style:solid;border-top-width:1px;border-bottom-width:1px;
+border-left-width:0px;border-right-width:0px;
+}
+
+.comment {font-size:16pt;color:#103848;
+border-style:solid;border-top-width:1px;border-bottom-width:1px;
+border-left-width:0px;border-right-width:0px;
+border-color:#000000;
+}
+
+.label {
+font-size:15pt;text-decoration:underline;color:#585800;/*color:#283858*/
+}
+
+.thinSpace { height:10px}
+.thinnerSpace { height:5px}
+.thinnestSpace { height:2px}
+
+#bannerMain {
+font-size:28pt;text-decoration:underline;text-shadow: 2px 0px #ffff00;
+}
+
+#bannerExp {
+font-size:28pt;text-decoration:underline;text-shadow: 2px 0px #ffff00;color:#103848;text-shadow: 2px 0px #ffff00;
+border-style:solid;border-top-width:0px;border-bottom-width:1px;
+border-left-width:0px;border-right-width:0px;border-color:#000000;
+}
+
+#banner{
+font-size:18pt;text-decoration:underline;color:#585800;
+}
+
+#banner_bl {
+font-size:20pt;font-weight:bold;text-decoration:underline;text-shadow: 1px 0px #ff0000;
+color:#404000;border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+#summary {
+font-size:18pt;font-weight:bold;background: -moz-linear-gradient(#FFFFFF,#F4FCFF); 
+
+background: -webkit-linear-gradient(#FFFFFF,#F4FCFF); /* For Safari */
+background: -o-linear-gradient(#FFFFFF,#F4FCFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FFFFFF,#F4FCFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#FFFFFF,#F4FCFF);/*For IE10*/
+background: linear-gradient(#FFFFFF,#F4FCFF); /* Standard syntax */
+
+border-style:solid;border-top-width:1px;
+border-bottom-width:0px;border-left-width:0px;border-right-width:0px;
+}
+
+#title {
+color:#888800;text-decoration:underline;text-shadow: 2px 0px #102828;
+}
+
+#subTitle {
+color:#002848;border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+.socialism  {
+font-weight:bold;text-decoration:underline;
+color:#404000;text-shadow: 1px 0px #ff3300;
+}
+
+.main {
+font-weight:normal;text-align:justify;
+
+background: -webkit-linear-gradient(#FFFFFF,#F4FCFF); /* For Safari */
+background: -o-linear-gradient(#FFFFFF,#F4FCFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FFFFFF,#F4FCFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#FFFFFF,#F4FCFF);/*For IE10*/
+background: linear-gradient(#FFFFFF,#F4FCFF); /* Standard syntax */
+
+color:#002848;padding-left:5px;padding-right:5px;
+border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+.mainw {
+font-weight:normal;text-align:justify;
+
+background: -webkit-linear-gradient(#F4FCFF,#FFFFFF); /* For Safari */
+background: -o-linear-gradient(#F4FCFF,#FFFFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#F4FCFF,#FFFFFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#F4FCFF,#FFFFFF);/*For IE10*/
+background: linear-gradient(#F4FCFF,#FFFFFF); /* Standard syntax */
+
+color:#102828;padding-left:5px;padding-right:5px;
+
+border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+.bottom {
+border-style:solid;border-top-width:1px;
+border-bottom-width:0px;border-left-width:0px;border-right-width:0px;
+}
+
+.centred{
+
+background: -webkit-linear-gradient(#F4FCFF,#FFFFFF); /* For Safari */
+background: -o-linear-gradient(#F4FCFF,#FFFFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#F4FCFF,#FFFFFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#F4FCFF,#FFFFFF);/*For IE10*/
+background: linear-gradient(#F4FCFF,#FFFFFF); /* Standard syntax */
+
+color:#002848;font-weight:normal;padding-left:5px;padding-right:5px;border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+.centredw{
+
+background: -webkit-linear-gradient(#FFFFFF,#F4FCFF); /* For Safari */
+background: -o-linear-gradient(#FFFFFF,#F4FCFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FFFFFF,#F4FCFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#FFFFFF,#F4FCFF);/*For IE10*/
+background: linear-gradient(#FFFFFF,#F4FCFF); /* Standard syntax */
+
+color:#102828;font-weight:normal;padding-left:5px;padding-right:5px;border-style:solid;border-top-width:0px;
+border-bottom-width:1px;border-left-width:0px;border-right-width:0px;
+}
+
+.dotted-line  {line-height:1px;text-align:center;}
+
+#green {
+
+/* colour gradient older browsers*/
+background: -webkit-repeating-linear-gradient(#FFFFFF,#EFFFEF 50%,#FFFFFF); /* For Safari */
+background: -o-repeating-linear-gradient(#FFFFFF,#EFFFEF 50%,#FFFFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-repeating-linear-gradient(#FFFFFF,#EFFFEF 50%,#FFFFFF); /* For Firefox 3.6 to 15 */
+background: -ms-repeating-linear-gradient(#FFFFFF,#EFFFEF 50%,#FFFFFF);/*For IE10*/
+background: repeating-linear-gradient( #FFFFFF,#EFFFEF 50%,#FFFFFF); /* Standard syntax */ 
+}
+
+#blue {
+
+/* colour gradient older browsers*/
+background: -webkit-linear-gradient(#EFEFFF, #FFFFFF); /* For Safari */
+background: -o-linear-gradient(#EFEFFF, #FFFFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#EFEFFF, #FFFFFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#EFEFFF, #FFFFFF);/*For IE10*/
+background: linear-gradient(#EFEFFF, #FFFFFF); /* Standard syntax */
+}
+
+#blue_rev {
+
+/* colour gradient older browsers*/
+background: -webkit-linear-gradient(#FFFFFF,#EFEFFF); /* For Safari */
+background: -o-linear-gradient(#FFFFFF,#EFEFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FFFFFF,#EFEFFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#FFFFFF,#EFEFFF);/*For IE10*/
+background: linear-gradient(#FFFFFF,#EFEFFF); /* Standard syntax */
+}
+
+#faintBlue {
+
+/* colour gradient older browsers*/
+background: -webkit-linear-gradient(#F4FCFF,#FFFFFF); /* For Safari */
+background: -o-linear-gradient(#F4FCFF,#FFFFFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#F4FCFF,#FFFFFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#F4FCFF,#FFFFFF);/*For IE10*/
+background: linear-gradient(#F4FCFF,#FFFFFF); /* Standard syntax */
+}
+
+#faintRev {
+
+/* colour gradient older browsers*/
+background: -webkit-linear-gradient(#FFFFFF,#F4FCFF); /* For Safari */
+background: -o-linear-gradient(#FFFFFF,#F4FCFF); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#FFFFFF,#F4FCFF); /* For Firefox 3.6 to 15 */
+background: -ms-linear-gradient(#FFFFFF,#F4FCFF);/*For IE10*/
+background: linear-gradient(#FFFFFF,#F4FCFF); /* Standard syntax */
+}
+
+#page {
+font-family:Calibri,sans-serif;font-size:14pt;font-weight:bold;text-align:center;
